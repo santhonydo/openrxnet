@@ -1,0 +1,7 @@
+.content-container {
+    position: relative;
+    margin-top: 56px;
+    margin-left: 200px;
+    min-height: 100vh;
+    background-color: gray;
+}

@@ -1,0 +1,26 @@
+.list-group {
+	margin-bottom: 200px !important;
+}
+
+.list-group a {
+  border: none;
+	color: coral;
+	text-decoration: none;
+}
+
+.list-group a:hover {
+  text-decoration: none;
+}
+
+.list-group-item {
+  border: none !important;
+}
+
+.list-group-item.active {
+	background-color: white !important;
+	color: coral !important;
+}
+
+.left-navbar-container .btn {
+	margin: 0 auto !important;
+}

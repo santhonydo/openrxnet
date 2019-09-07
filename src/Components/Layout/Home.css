@@ -1,0 +1,19 @@
+.home-body-container {
+  margin-top: 56px;
+  display: block;
+  width: 100%;
+}
+
+.home-left-navbar-container {
+  display: inline-block;
+  border: 1px solid black;
+  width: 18%;
+}
+
+.home-body-content-container {
+  display: inline-block;
+  position: absolute;
+  background-color: red;
+  padding: 65px 100px;
+  width: 82%;
+}
